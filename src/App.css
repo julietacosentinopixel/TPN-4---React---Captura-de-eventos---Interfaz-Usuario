@@ -1,0 +1,9 @@
+.contenedor {
+  max-width: 560px;
+  margin-top: 60px;
+}
+
+/* Se define acá (después de Bootstrap) para que no lo pise el CSS de la librería */
+body {
+  background: #f4f6fb;
+}
